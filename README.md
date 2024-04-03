@@ -1,5 +1,7 @@
 # Extract and parse jobs in real time with Bytewax
 
+This repository has a simple script to extract job listings from the job search API and parse the job descriptions to extract the required skills in real time. 
+
 ## Set up
 
 1. Create a virtual environment and install the requirements:
