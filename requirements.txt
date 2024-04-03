@@ -1,0 +1,3 @@
+bytewax==0.19
+haystack-ai
+python-dotenv
